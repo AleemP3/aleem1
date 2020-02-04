@@ -1,0 +1,24 @@
+.main-navbar-container {
+  height: 8vh;
+  box-sizing: border-box;
+  background-color: #EAE7DC;
+  display: flex;
+  flex-direction: column;
+  width: 100.5%;
+}
+
+.navbar-links-containers {
+  display: flex;
+  justify-content: flex-end
+}
+
+.home-link {
+  padding: 1.5rem 3rem 0 0;
+  display: flex;
+}
+
+.links {
+  text-decoration: none; 
+  color: black;
+  font-size: 20px;
+}

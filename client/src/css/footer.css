@@ -1,0 +1,50 @@
+.footer {
+  height: 13vh;
+  box-sizing: border-box;
+  background-color: #8E8D8A;
+  display: flex;
+  flex-direction: column;
+  width: 100.5%;
+}
+
+
+.icon {
+  width: 55px;
+  height: 55px;
+}
+.svg-icon {
+  width: 75px; 
+  padding: 10px;
+}
+.icon-divs {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.email {
+  width: 75%;
+  display: flex;
+  font-size: 30px;
+  font-weight: 500;
+  justify-content: center;
+  color: white;
+}
+
+div.home-footer-icons {
+  display: flex; 
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+}
+.fa {
+  display: flex;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-social {
+  background: #8E8D8A;
+  text-align: center;
+}
