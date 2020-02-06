@@ -1,7 +1,7 @@
 .main-navbar-container {
   height: 8vh;
   box-sizing: border-box;
-  background-color: #EAE7DC;
+  background-color: white;
   display: flex;
   flex-direction: column;
   width: 100.5%;
@@ -13,7 +13,7 @@
 }
 
 .home-link {
-  padding: 1.5rem 3rem 0 0;
+  padding: 1.3rem 3rem 0 0;
   display: flex;
 }
 

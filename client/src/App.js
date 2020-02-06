@@ -12,11 +12,9 @@ const App = () => {
     <>
     <div className="main-main-container">
       <Navbar />
-      <div className="main-home-container">
         <div>
           <Route exact path="/" component={Home} />
         </div>
-      </div>
         <Footer />
     </div>
     </>
